@@ -1,0 +1,16 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCB_full.PrjPcb]
+   Generated File[PCBfull_2.GBL]
+   Generated File[PCBfull_2.GBS]
+   Generated File[PCBfull_2.GBP]
+   Generated File[PCBfull_2.GBO]
+   Generated File[PCBfull_2.RUL]
+   Generated File[PCBfull_2.EXTREP]
+   Generated File[PCBfull_2.REP]
+
+
+Files Generated   : 7
+Documents Printed : 0
+
+Finished Output Generation At 18:26:31 On 11.03.2021
